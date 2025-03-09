@@ -3,8 +3,6 @@
 <div class="gallery">
   <% @photos.each do |photo| %>
     <div class="photo">
-      <h3><%= photo.title %></h3>
-      <p><%= photo.description %></p>
       <%= image_tag(photo.image.url(:thumb)) %>
     </div>
   <% end %>
