@@ -3,7 +3,7 @@ source "https://rubygems.org"
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 8.0.1"
 
-gem 'carrierwave', '~> 2.0'
+gem 'carrierwave', '~> 3.1'
 
 gem 'mini_magick', '~> 4.0'
 
