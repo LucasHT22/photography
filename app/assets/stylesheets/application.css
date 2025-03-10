@@ -19,9 +19,10 @@ h1 {
 .photo {
   width: 200px;
   text-align: center;
-  border: 1px solid #ddd;
+  border: 1px solid #dddddd;
   padding: 10px;
   background-color: #f8f8f8;
+  border-radius: 5px;
 }
   
 .photo img {
