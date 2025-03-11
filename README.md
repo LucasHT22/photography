@@ -2,12 +2,18 @@
 
 ## How to start
 
-```bundle install```
+```
+bundle install
+```
 
-```rails server```
+```
+rails server
+```
 
 ## How to update
 
 Add file to `/public/photos`
 
-```rails db:seed```
+```
+rails db:seed
+```
