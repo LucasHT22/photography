@@ -9,6 +9,9 @@ bundle install
 sudo apt install imagemagick
 ```
 ```
+sudo apt-get update
+```
+```
 rails db:migrate
 ```
 
