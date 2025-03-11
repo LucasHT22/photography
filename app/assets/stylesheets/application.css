@@ -14,9 +14,13 @@ h1 {
   flex-wrap: wrap;
   gap: 20px;
   justify-content: center;
+  margin: 10%;
 }
   
 .photo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   width: auto;
   height: auto;
   text-align: center;
