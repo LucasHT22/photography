@@ -4,9 +4,9 @@
   color: white;
 }
 
-h1 {
+#ph1 {
   text-align: center;
-  font-size: xx-large;
+  font-size: 50px;
 }
 
 .gallery {
@@ -15,6 +15,7 @@ h1 {
   gap: 20px;
   justify-content: center;
   margin: 10%;
+  margin-top: 10px;
 }
   
 .photo {
@@ -34,4 +35,9 @@ h1 {
   max-width: 100%;
   height: auto;
   border-radius: 5px;
+}
+
+.main {
+  width: 30%;
+  margin: 10%;
 }
