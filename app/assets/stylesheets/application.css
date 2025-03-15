@@ -9,6 +9,10 @@
   font-size: 50px;
 }
 
+#p1 {
+  text-align: center;
+}
+
 .gallery {
   display: flex;
   flex-wrap: wrap;
