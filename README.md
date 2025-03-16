@@ -6,15 +6,17 @@
 bundle install
 ```
 ```
-sudo apt install imagemagick
-```
-```
 sudo apt-get update
+```
+```
+sudo apt install imagemagick
 ```
 ```
 rails db:migrate
 ```
-
+```
+rails db:seed
+```
 ```
 rails server
 ```
