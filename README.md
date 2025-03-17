@@ -1,6 +1,6 @@
 # README
 
-## How to start
+## Set up
 
 ```
 bundle install

@@ -1,7 +1,7 @@
 image_dir = Rails.root.join('public', 'photos')
 
 if Dir.exist?(image_dir)
-  image_files = Dir[image_dir.join('*.{jpg,jpeg,png,gif}')]
+  image_files = Dir[image_dir.join('*.{jpg,jpeg,png,gif,cr2}')]
 
   image_files.each do |image_path|
     photo = Photo.new(
