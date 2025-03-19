@@ -10,7 +10,7 @@
 <br />
 <div class="gallery">
   <% @photos.each do |photo| %>
-    <a href="<%= photo.image.url:thumb %>">
+    <a href="<%= photo.image.url:prev %>">
       <div class="photo">
         <%= image_tag(photo.image.url(:thumb)) %>
       </div>
