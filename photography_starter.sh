@@ -1,1 +1,1 @@
-cd /home/lucas/photography && bundle exec rails server --port 44091
+cd /home/lucas/dev && bundle exec rails server --port 42495
