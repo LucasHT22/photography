@@ -1,0 +1,1 @@
+cd /home/lucas/photography && bundle exec rails server --port 44091
