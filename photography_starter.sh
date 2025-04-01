@@ -1,1 +1,0 @@
-cd /home/lucas/dev && bundle exec rails server --port 42495
