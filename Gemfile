@@ -5,7 +5,7 @@ gem "rails", "~> 8.0.1"
 
 gem 'carrierwave', '~> 2.0'
 
-gem 'mini_magick', '~> 4.0'
+gem 'mini_magick', '~> 5.2'
 
 # The modern asset pipeline for Rails [https://github.com/rails/propshaft]
 gem "propshaft"
